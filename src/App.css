@@ -1,0 +1,41 @@
+.bg-1{
+    background-image: url(img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+}
+.bg-6{
+    background-image: url(img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 30vh;
+    width: 100%;
+}
+i{
+    font-size: 10em;
+    text-align: center;
+    align-items: center;
+}
+
+.bg-2{
+    background-image: url(img/2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+}
+.bg-3{
+    background-image: url(img/bg-showcase-2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+}
+.bg-4{
+    background-image: url(img/bg-showcase-3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+}
